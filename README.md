@@ -15,15 +15,21 @@ https://raw.githack.com/KSwishCode/KSwishCode.github.io/main/Dad%20Jokes/index.h
 
 Event Key Codes:  
 https://raw.githack.com/KSwishCode/KSwishCode.github.io/main/Event%20Key%20Codes/index.html  
-Expanding-Cards (click to expand):
-https://raw.githack.com/KSwishCode/KSwishCode.github.io/main/Expanding-Cards/index.html
-Landing Page Project:
-https://raw.githack.com/KSwishCode/KSwishCode.github.io/main/Landing%20Page/index.html
-Rotating Navigation:
-https://raw.githack.com/KSwishCode/KSwishCode.github.io/main/Rotating%20Navigation/index.html
-Scrolling Animation:
-https://raw.githack.com/KSwishCode/KSwishCode.github.io/main/Scrolling%20Animation/index.html
-Sound Board:
-https://raw.githack.com/KSwishCode/KSwishCode.github.io/main/Sound%20Board/index.html
-Excursion (website example):
-https://raw.githack.com/KSwishCode/KSwishCode.github.io/main/excursion/index.html
+
+Expanding-Cards (click to expand):  
+https://raw.githack.com/KSwishCode/KSwishCode.github.io/main/Expanding-Cards/index.html  
+
+Landing Page Project:  
+https://raw.githack.com/KSwishCode/KSwishCode.github.io/main/Landing%20Page/index.html  
+
+Rotating Navigation:  
+https://raw.githack.com/KSwishCode/KSwishCode.github.io/main/Rotating%20Navigation/index.html  
+
+Scrolling Animation:  
+https://raw.githack.com/KSwishCode/KSwishCode.github.io/main/Scrolling%20Animation/index.html  
+
+Sound Board:  
+https://raw.githack.com/KSwishCode/KSwishCode.github.io/main/Sound%20Board/index.html  
+
+Excursion (website example):  
+https://raw.githack.com/KSwishCode/KSwishCode.github.io/main/excursion/index.html  
